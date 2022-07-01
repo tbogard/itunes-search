@@ -55,7 +55,7 @@
     "commitizen": "^4.2.4",
     "coveralls": "^3.1.1",
     "cz-conventional-changelog": "^3.3.0",
-    "esbuild": "^0.14.39",
+    "esbuild": "^0.14.48",
     "esbuild-config": "^0.2.0",
     "esbuild-node-externals": "^1.4.1",
     "esbuild-plugin-d.ts": "^1.1.0",
